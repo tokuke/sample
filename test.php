@@ -6,3 +6,5 @@
  * Time: 2:50
  */
 phpinfo();
+
+echo 'Hello World!';
